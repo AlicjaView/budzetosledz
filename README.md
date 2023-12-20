@@ -3,33 +3,28 @@ Prosta aplikacja desktopowa w języku Python umożliwiająca użytkownikowi śle
 Oczywiście, poniżej znajdziesz przykładowy plik README.md dla Twojej aplikacji:
 
 # funkcje
-- dodawanie nowych transakcji z podaniem kwoty, kategorii i przedmiotu
-- automatyczne generowanie daty i godziny dla każdej transakcji
-- wyświetlanie listy transakcji w interfejsie użytkownika
-- generowanie statystyk dla poszczególnych kategorii wydatków
+- dodawanie zarobków i wydatków z podaniem kwoty, kategorii, przedmiotu i daty
+- Wyświetlanie listy transakcji zarówno dla wydatków, jak i zarobków
+- statystyki kategorii wydatków i zarobków
 
 ## instrukcja obsługi
-1. wprowadź kwotę, kategorię i przedmiot transakcji
-2. kliknij przycisk "Dodaj Transakcję", aby dodać transakcję do listy
-3. transakcje są wyświetlane w oknie głównym, a statystyki kategorii są dostępne w osobnym oknie
+1. wprowadź kwotę, kategorię, przedmiot i datę transakcji
+2. kliknij przycisk "Dodaj Wydatek" lub "Dodaj Zarobek" w zależności od rodzaju transakcji
+3. w głównym oknie aplikacji znajdziesz pola tekstowe, które wyświetlają transakcje wydatków i zarobków w formie listy z informacjami o dacie, kwocie, kategorii i przedmiocie.
+4. w lewym dolnym rogu aplikacji znajduje się pole "Statystyki Kategorii", które wyświetla sumę kwot dla każdej kategorii
 
 # uwagi
 - kwota może być wprowadzana z użyciem przecinka lub kropki jako separatora dziesiętnego
 - statystyki kategorii są automatycznie aktualizowane po dodaniu nowej transakcji
-- aplikacja ma ciemną kolorystykę, co sprawia, że jest przyjemna dla oczu.
+- aplikacja ma ciemną kolorystykę, co sprawia, że jest przyjemna dla oczu
 
 # struktura projektu
 - `budzetosledz.py`: Główny plik zawierający logikę aplikacji.
 - `README.md`: Aktualny plik zawierający dokumentację aplikacji.
-- inne pliki mogą być dodawane w miarę rozbudowy funkcji
 
 # Wymagania
 - Python 3.x
 - PyQt5
-
-# instrukcja instalacji
-1. zainstaluj wymagane biblioteki, wykonując polecenie: `pip install PyQt5`.
-2. uruchom plik `budzetosledz.py` za pomocą Pythona.
 
 *Autor: Alicja Wójcik*
 
