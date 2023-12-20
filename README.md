@@ -25,8 +25,8 @@ Prosta aplikacja desktopowa napisana w języku Python, umożliwiająca użytkown
 - Python 3.x
 - PyQt5
 
-**# licencja 
-**ten projekt jest dostępny na licencji GNU General Public License (GPL). Zobacz plik LICENSE dla szczegółów.
+# licencja 
+ten projekt jest dostępny na licencji GNU General Public License (GPL). Zobacz plik LICENSE dla szczegółów.
 
-*Autor: Alicja Wójcik
+Autor: Alicja Wójcik
 
