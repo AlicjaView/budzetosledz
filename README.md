@@ -30,3 +30,4 @@ ten projekt jest dostępny na licencji GNU General Public License (GPL). Zobacz 
 
 Autor: Alicja Wójcik
 
+NAPISZ, JEŚLI MASZ POMYSŁ NA DODATKOWE FUNKCJE TEJ APLIKACJI
