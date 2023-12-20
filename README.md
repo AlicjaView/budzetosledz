@@ -22,9 +22,12 @@ Oczywiście, poniżej znajdziesz przykładowy plik README.md dla Twojej aplikacj
 - `budzetosledz.py`: Główny plik zawierający logikę aplikacji.
 - `README.md`: Aktualny plik zawierający dokumentację aplikacji.
 
-# Wymagania
+# wymagania
 - Python 3.x
 - PyQt5
 
-*Autor: Alicja Wójcik*
+**# licencja 
+**ten projekt jest dostępny na licencji GNU General Public License (GPL). Zobacz plik LICENSE dla szczegółów.
+
+*Autor: Alicja Wójcik
 
