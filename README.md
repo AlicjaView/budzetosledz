@@ -1,13 +1,12 @@
 # budzetosledz
-Prosta aplikacja desktopowa w języku Python umożliwiająca użytkownikowi śledzenie swoich transakcji finansowych, kategoryzowanie ich i generowanie statystyk dotyczących wydatków w różnych kategoriach.
-Oczywiście, poniżej znajdziesz przykładowy plik README.md dla Twojej aplikacji:
+Prosta aplikacja desktopowa napisana w języku Python, umożliwiająca użytkownikowi śledzenie swoich transakcji finansowych. Pozwala na dodawanie zarówno wydatków, jak i zarobków, kategoryzowanie ich oraz generowanie statystyk dotyczących wydatków w różnych kategoriach.
 
 # funkcje
 - dodawanie zarobków i wydatków z podaniem kwoty, kategorii, przedmiotu i daty
-- Wyświetlanie listy transakcji zarówno dla wydatków, jak i zarobków
+- wyświetlanie listy transakcji zarówno dla wydatków, jak i zarobków
 - statystyki kategorii wydatków i zarobków
 
-## instrukcja obsługi
+# instrukcja obsługi
 1. wprowadź kwotę, kategorię, przedmiot i datę transakcji
 2. kliknij przycisk "Dodaj Wydatek" lub "Dodaj Zarobek" w zależności od rodzaju transakcji
 3. w głównym oknie aplikacji znajdziesz pola tekstowe, które wyświetlają transakcje wydatków i zarobków w formie listy z informacjami o dacie, kwocie, kategorii i przedmiocie.
